@@ -1,4 +1,4 @@
-#IABRIR
+#ABRIR
 library(tidyverse)
 library(readxl)
 library(cowplot) #para usar stamp del paquete lubridate hay que hacer stamp::lubridate
